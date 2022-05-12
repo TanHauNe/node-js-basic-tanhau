@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thahkem/node-js-basic-tanhau.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thahkem/node-js-basic-tanhau/issues"
+  },
+  "homepage": "https://github.com/thahkem/node-js-basic-tanhau#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
